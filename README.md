@@ -1,5 +1,7 @@
 # Kiwix JS Wikivoyage for Windows
 
+[ Microsoft Store link: https://www.microsoft.com/store/apps/9N5SB90Q4JBJ ] 
+
 This is a version of the Kiwix Offline Wikimedia reader for UWP on Windows 10 that has been packaged with
 a Wikivoyage archive. If you are interested in the development of Kiwix JS, or want to install it without
 the packaged archive, please switch back to the Master branch: https://github.com/kiwix/kiwix-js-windows/tree/master
